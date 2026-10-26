@@ -5,8 +5,6 @@ import main.java.edu.mejiasoft.calculadora.utils.exception.CalculadoraErrorCode;
 
 public class CalculadoraService {
 
-    public double resultado;
-
     public CalculadoraService() {
     }
 
